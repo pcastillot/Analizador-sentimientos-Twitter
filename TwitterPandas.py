@@ -8,10 +8,10 @@ from textblob import TextBlob
 import tweepy
 from PyQt5 import QtWidgets
 
-consumer_key = "cFXQjyvc7dz29o4FVuqLpwCPH"
-consumer_secret = "bGIT8c2o56BCMelNiUTXwwA9jsJJZ0w4lJx5fRkJQF8Y38wtJv"
-access_token = "598430996-6QUpYRwPsbk9RSysGFnvEUwvXyzOVub72Swu8SXT"
-access_secret = "kJRhwoCk3XC1Tv5w9GiKU03m1fLKsHwRrdKjSMxeSvOxx"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_secret = ""
 
 
 #Clase para crear un modelo pandas y pasarlo a la TableView
